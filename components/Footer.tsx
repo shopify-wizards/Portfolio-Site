@@ -10,7 +10,7 @@ export default function Footer() {
             <span className="white">Copyright © {year} <Link href="/">Anson Chen | Shopify Developer</Link> - All rights reserved.</span>
             <ul className="flex">
                 <li>
-                    <a href="https://www.linkedin.com/in/ansonchen-shopify" target="_blank" rel="noreferrer">
+                    <a href="https://www.linkedin.com/in/shopify-wizards" target="_blank" rel="noreferrer">
                         <Image src="/icons/linkedin.svg" width={24} height={24} alt="linkedin-icon" />
                     </a>
                 </li>
