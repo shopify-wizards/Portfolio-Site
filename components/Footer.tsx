@@ -7,7 +7,7 @@ export default function Footer() {
 
     return (
         <footer className="light-bg flex justify-space">
-            <span className="white">Copyright © {year} <Link href="/">Anson Chen | Shopify Developer</Link> - All rights reserved.</span>
+            <span className="white">Copyright © {year} <Link href="/">Shopify Engineer</Link> - All rights reserved.</span>
             <ul className="flex">
                 <li>
                     <a href="https://www.linkedin.com/in/shopify-wizards" target="_blank" rel="noreferrer">
@@ -20,7 +20,7 @@ export default function Footer() {
                     </a>
                 </li>
                 <li>
-                    <a href="mailto:ansonchen.wizard@hotmail.com" target="_blank" rel="noreferrer">
+                    <a href="mailto:shopify.wizard@hotmail.com" target="_blank" rel="noreferrer">
                         <Image src="/icons/phone.svg" width={24} height={24} alt="email-icon" />
                     </a>
                 </li>

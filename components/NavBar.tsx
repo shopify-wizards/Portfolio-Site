@@ -6,7 +6,7 @@ export default function NavBar() {
     return (
         <nav className="flex light-bg justify-space">
             <div className="logo white">
-                <Link href="/">Anson Chen</Link>
+                <Link href="/">Shopify Wizard</Link>
             </div>
 
             <ul className="flex white">

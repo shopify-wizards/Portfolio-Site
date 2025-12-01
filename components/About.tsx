@@ -25,7 +25,7 @@ export default function About() {
                 
                 <div className="flex-full about-text">
                     <h5 className="gray">Introduce</h5>
-                    <h1 className="white">Hello, I&#39;m Anson Chen</h1>
+                    <h1 className="white">Hello, I&#39;m Shopify Wizard</h1>
                     <h3 className="white">Real design means creating a storefront that works—smooth, clear, intuitive, and built to convert.</h3>
                     <p className="gray">E-commerce has always fascinated me—how design, behavior, and technology come together to create a seamless shopping experience. That curiosity led me to become a Shopify developer, and it&#39;s been my focus ever since. I specialize in building and improving Shopify & Shopify Plus stores with a mindset that blends engineering discipline, UX thinking, and business awareness. Over the years, I&#39;ve partnered with brands across the US, Europe, and Asia, helping them redesign stores, optimize conversions, and transform complex operations into clean, scalable solutions. I take pride in being the kind of developer who digs deeper—understanding not just <b>what</b> needs to be built, but <b>why</b>. My work is driven by persistence, calm problem-solving, and a desire to craft user experiences that actually make sense. Every project is a chance to innovate, refine, and push the boundary of what a Shopify store can do.</p>
                 </div>
