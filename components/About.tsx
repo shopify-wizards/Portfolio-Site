@@ -1,6 +1,5 @@
 import React from "react";
 import Image, { StaticImageData } from "next/image";
-import Link from "next/link";
 
 export default function About() {
     return (
@@ -8,20 +7,20 @@ export default function About() {
             <div className="flex">
                 <div className="flex-full">
                     <AboutCard
-                        title="Shopify | Shopify Plus Development"
+                        title="Shopify & Shopify Plus Development"
                         icon="/icons/design.svg"
-                        description="I create design  products with unique ideas."
-                        projects={57} />
+                        description="I build and optimize Shopify and Shopify Plus stores — custom themes, performance optimization, and conversion-focused design."
+                        projects={74} />
                     <AboutCard
-                        title="Front-End Development"
+                        title="Headless & Hydrogen"
                         icon="/icons/code.svg"
-                        description="I develop Front-End with coding super smooth."
-                        projects={10} />
+                        description="Implementing headless storefronts with Hydrogen, Storefront API and React for fast, flexible shopping experiences."
+                        projects={12} />
                     <AboutCard
-                        title="Mobile"
+                        title="Integrations & Apps"
                         icon="/icons/phone.svg"
-                        description="I develop cross-platform mobile applications."
-                        projects={3} />
+                        description="Custom apps, API integrations, subscriptions, and fulfillment workflows to automate and scale operations."
+                        projects={9} />
                 </div>
                 
                 <div className="flex-full about-text">

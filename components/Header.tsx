@@ -9,13 +9,13 @@ export default function Header() {
             <NavBar />
             <div className="header flex light-bg">
                 <div>
-                    <button>Shopify | Shopify Plus Engineer</button>
-                    <h1 className="white">Talk is cheap.</h1>
-                    <h1 className="white">Show me the code!</h1>
-                    <p className="gray">I help businesses turn clicks into customers, and I love what I do.</p>
-                    <a className="green" href="mailto:ansonchen.wizard@hotmail.com">Let&#39;s chat!</a>
+                <button>Shopify | Shopify Plus Engineer</button>
+                    <h1 className="white">Crafting high-converting Shopify storefronts.</h1>
+                    <h1 className="white">Themes, Hydrogen, and custom apps.</h1>
+                    <p className="gray">I help merchants and teams turn product-led strategies into reliable, fast, and accessible storefronts on Shopify and Shopify Plus.</p>
+                    <a className="green" href="mailto:ansonchen.wizard@hotmail.com">Start a Shopify project</a>
                 </div>
-                <Image src="/images/anson.png" width={463} height={600} alt="anson"  /> 
+                <Image src="/images/anson.png" width={463} height={600} alt="Anson Chen portrait"  /> 
             </div>
         </header>
     )
