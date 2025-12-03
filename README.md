@@ -1,14 +1,13 @@
-# Developer Portfolio
+# Shopify Wizard Portfolio
 
 ![licence](https://img.shields.io/badge/licence-MIT-blue)
 
-Developer Portfolio is a web template made for developers to present themselves based on NextJS.
+Shopify Wizard Portfolio is a specialized web template for Shopify developers to showcase their expertise in Shopify & Shopify Plus development, built with NextJS.
 
 ![Developer Protfolio](https://user-images.githubusercontent.com/32510139/196662875-44970df4-d748-4a76-8a5f-ec2f4f0eb0e9.png)
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Tech Stack](#tech-stack)
 - [Quick Start](#quick-start)
 - [Run Locally](#run-locally)
@@ -17,20 +16,17 @@ Developer Portfolio is a web template made for developers to present themselves 
 - [Author](#author)
 - [License](#license)
 
-## Demo
-
-[Developer Portfolio demo link](https://developer-portfolio-gules.vercel.app/)
 
 ## Tech Stack
 
-**Frontend:** HTML5 / CSS3 / ReactJS / NextJS
+**Frontend:** HTML5 / CSS3 / ReactJS / NextJS / TypeScript
 
 ## Quick start
 
 Clone the repo
 
 ```bash
-  git clone https://github.com/blaiti/Developer-Portfolio.git
+  git clone https://github.com/shopify-wizards/portfolio-site.git
 ```
 
 Install Developer Portfolio with npm
@@ -61,12 +57,12 @@ To create a production build
 Within the download you'll find the following directories and files:
 
 ```bash
-Developer-Portfolio
+Shopify-Wizard-Portfolio
 .
+├── .eslintrc.json
 ├── package.json
-├── package_lock.json
+├── package-lock.json
 ├── tsconfig.json
-├── next-env.d.ts
 ├── next.config.js
 ├── components
 │   ├── About.tsx
@@ -88,20 +84,20 @@ Developer-Portfolio
 │   │   ├── phone.svg
 │   │   └── youtube.svg
 │   └── images
-│       ├── blaiti.png
+│       ├── shopify-wizard.png
 │       └── partners
-│           ├── artisty.png
-│           ├── directy.png
-│           ├── khedma-lik.png
-│           ├── wallety.png
-│           └── telefy.png
+│           ├── lola-health.svg
+│           ├── mojo-active.svg
+│           ├── rocket-care.png
+│           ├── SLTC.webp
+│           └── ultra-marketing.svg
 └── styles
-    └── global.css
+    └── globals.css
 ```
 
 ## Author
 
-[@blaiti](https://github.com/blaiti)
+[@shopify-wizards](https://github.com/shopify-wizards)
 
 ## License
 
