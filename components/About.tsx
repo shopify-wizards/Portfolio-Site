@@ -32,19 +32,19 @@ export default function About() {
             </div>
 
             <div className="flex partners justify-space">
-                <a href="https://lolahealth.com/" target="_blank">
+                <a href="https://lolahealth.com/" target="_blank" rel="noreferrer">
                     <Image src="/images/partners/lola-health.svg" height={45} width={180} alt="lola-health" />
                 </a>
-                <a href="https://www.ultramarketinggroup.com/" target="_blank">
+                <a href="https://www.ultramarketinggroup.com/" target="_blank" rel="noreferrer">
                     <Image src="/images/partners/ultra-marketing.svg" height={60} width={180} alt="ultra-marketing" />
                 </a>
-                <a href="https://www.mojoactive.com/" target="_blank">
+                <a href="https://www.mojoactive.com/" target="_blank" rel="noreferrer">
                     <Image src="/images/partners/mojo-active.svg" height={45} width={180} alt="mojo-active" />
                 </a>
-                <a href="https://rocketcare.nl/" target="_blank">
+                <a href="https://rocketcare.nl/" target="_blank" rel="noreferrer">
                     <Image src="/images/partners/rocket-care.png" height={40} width={220} alt="rocket-care" />
                 </a>
-                <a href="https://sltconsulting.co/" target="_blank">
+                <a href="https://sltconsulting.co/" target="_blank" rel="noreferrer">
                     <Image src="/images/partners/SLTC.webp" height={40} width={120} alt="sltc" />
                  </a>
             </div>
