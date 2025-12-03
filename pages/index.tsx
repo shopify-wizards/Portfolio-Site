@@ -3,10 +3,14 @@ import Head from "next/head";
 import About from "../components/About";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
+import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/next"
 
 const Home: NextPage = () => {
   return (
     <>
+      <SpeedInsights />
+      <Analytics />
       <Head>
         <title>Shopify | Shopify Plus Engineer</title>
         <link rel="icon" href="/favicon.ico" />
